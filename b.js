@@ -1,0 +1,1 @@
+uDepthColor: { value: new THREE.Color(debugObject.depthColor) },
